@@ -1,0 +1,55 @@
+#######################################
+# Syntax Coloring Map For TinyBrite
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+BritePacket	KEYWORD1
+A6281Packet	KEYWORD1
+TinyA6281	KEYWORD1
+TinyBrite	KEYWORD1
+StatePacket	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+autoUpdate	KEYWORD2
+setAutoUpdate	KEYWORD2
+pwmPacket	KEYWORD2
+commandPacket	KEYWORD2
+
+colorPacket	KEYWORD2
+
+setup	KEYWORD2
+beginUpdate	KEYWORD2
+
+sendPacket	KEYWORD2
+sendPackets	KEYWORD2
+sendPacketToAll	KEYWORD2
+sendPWMValues	KEYWORD2
+sendCommand	KEYWORD2
+sendColor	KEYWORD2
+
+endUpdate	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+TINYBRITE_COLOR_MAXVALUE	LITERAL1
+TA6281_PWM_MAXVALUE		LITERAL1
+
+TINYBRITE_CORRECTION_MAXVALUE	LITERAL1
+TINYBRITE_COMMAND_CLOCK_800kHz	LITERAL1
+TINYBRITE_COMMAND_CLOCK_400kHz	LITERAL1
+TINYBRITE_COMMAND_CLOCK_200kHz	LITERAL1
+TINYBRITE_COMMAND_CLOCK_EXT		LITERAL1
+
+TINYBRITE_AUTOUPDATE_ENABLE	LITERAL1
+TINYBRITE_AUTOUPDATE_DISABLE	LITERAL1
+
