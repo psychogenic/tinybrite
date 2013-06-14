@@ -6,7 +6,7 @@
  Interface to A6281 drivers.
  
  
- http://www.flyingcarsandstuff.com/projects/TinyBrite
+ http://www.flyingcarsandstuff.com/projects/tinybrite/
 
  
  

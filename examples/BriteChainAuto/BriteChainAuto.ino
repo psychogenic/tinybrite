@@ -3,7 +3,7 @@
  TinyBrite library auto-update chain example.
  Copyright (C) 2013 Pat Deegan.  All rights reserved.
  
- http://www.flyingcarsandstuff.com/projects/TinyBrite
+ http://www.flyingcarsandstuff.com/projects/tinybrite/
  
  
  This library is free software; you can redistribute it and/or
